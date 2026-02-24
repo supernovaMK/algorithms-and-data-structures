@@ -9,3 +9,4 @@
 | Sorting   | Bubble Sort         | `algorithm/sort/BubbleSort.java`                         | 평균/최악 `O(n^2)`          |
 | Sorting   | Insertion Sort      | `algorithm/sort/InsertionSort.java`                      | 평균/최악 `O(n^2)`최선 `O(n)` |
 | Sorting   | Selection Sort      | `algorithm/sort/SelectionSort.java`                      | 평균/최악 `O(n^2)`          |
+| Sorting   | Merge Sort          | `algorithm/sort/MergeSort.java`                          | 평균/최악 `O(nlogn)`        |
